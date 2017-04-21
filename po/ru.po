@@ -1,0 +1,314 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-03-17 00:31-0400\n"
+"PO-Revision-Date: 2011-11-08 19:19+0200\n"
+"Last-Translator: Chris <cjl@laptop.org>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%"
+"10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Pootle 2.0.5\n"
+
+#: activity/activity.info:2
+msgid "Record"
+msgstr "Записать"
+
+#: button.py:26
+msgid "Remove"
+msgstr "Удалить"
+
+#: button.py:37
+msgid "Copy to clipboard"
+msgstr "Копировать в буфер"
+
+#: constants.py:25 record.py:140
+msgid "Photo"
+msgstr "Фото"
+
+#: constants.py:32 record.py:148
+msgid "Video"
+msgstr "Видео"
+
+#: constants.py:39 record.py:159
+msgid "Audio"
+msgstr "Аудио"
+
+#: glive.py:396 model.py:385
+#, python-format
+msgid "%(type)s by %(name)s"
+msgstr ""
+
+#: glive.py:556
+msgid "Saving..."
+msgstr ""
+
+#: mediaview.py:54
+msgid "Author:"
+msgstr ""
+
+#: mediaview.py:70
+msgid "Tags:"
+msgstr "Метки"
+
+#: mediaview.py:118
+msgid "Date:"
+msgstr "Дата:"
+
+#: model.py:183
+#, python-format
+msgid "%(mins)d:%(secs)02d remaining"
+msgstr ""
+
+#: record.py:209
+msgid "Title:"
+msgstr "Название:"
+
+#: record.py:535
+msgid "Download failed."
+msgstr ""
+
+#: record.py:537
+msgid "Downloading..."
+msgstr ""
+
+#: record.py:539
+msgid "Requesting..."
+msgstr ""
+
+#: record.py:836
+#, fuzzy
+msgid "Quality:"
+msgstr "Качество:"
+
+#: record.py:837
+msgid "Low"
+msgstr ""
+
+#: record.py:841
+msgid "High"
+msgstr ""
+
+#: record.py:849
+msgid "Preferences"
+msgstr "Предпочтения"
+
+#: record.py:899
+msgid "Immediate"
+msgstr "Немедленно"
+
+#: record.py:916
+#, python-format
+#, fuzzy
+msgid "%s second"
+msgid_plural "%s seconds"
+msgstr[0] "%s секунд"
+msgstr[1] ""
+msgstr[2] ""
+
+#: record.py:941
+#, python-format
+#, fuzzy
+msgid "%s minute"
+msgid_plural "%s minutes"
+msgstr[0] "%s минут"
+msgstr[1] ""
+msgstr[2] ""
+
+#~ msgid "Timer:"
+#~ msgstr "Таймер:"
+
+#~ msgid "Duration:"
+#~ msgstr "Длительность:"
+
+#~ msgid "Time Lapse"
+#~ msgstr "Промежуток Времени"
+
+#~ msgid "Animation"
+#~ msgstr "Анимация"
+
+#~ msgid "Panorama"
+#~ msgstr "Панорама"
+
+# TRANS: photo by photographer, e.g., "Photo by Mary"
+#, python-format
+#~ msgid "%(1)s by %(2)s"
+#~ msgstr "%(1)s на %(2)s"
+
+#~ msgid "Recorder:"
+#~ msgstr "Записал:"
+
+#~ msgid "Saving"
+#~ msgstr "Сохраняется"
+
+#~ msgid "Finished recording"
+#~ msgstr "Запись завершена"
+
+#~ msgid "Stopped recording"
+#~ msgstr "Запись остановлена"
+
+#~ msgid "Play"
+#~ msgstr "Запуск"
+
+#~ msgid "Pause"
+#~ msgstr "Пауза"
+
+#~ msgid "Add frame"
+#~ msgstr "Добавить кадр"
+
+#~ msgid "Remove frame"
+#~ msgstr "Удалить кадр"
+
+#, python-format
+#~ msgid "%(1)s frames per second"
+#~ msgstr "%(1)s кадров в секунду"
+
+#~ msgid "Large file"
+#~ msgstr "Большой файл"
+
+#~ msgid "Small file"
+#~ msgstr "Маленький файл"
+
+#~ msgid "Silent"
+#~ msgstr "Тихий"
+
+#~ msgid "Rotate"
+#~ msgstr "Повернуть"
+
+#~ msgid "Width"
+#~ msgstr "Ширина"
+
+#~ msgid "Height"
+#~ msgstr "Высота"
+
+#~ msgid "Click to take picture"
+#~ msgstr "Нажмите для съемки"
+
+#~ msgid "Click to add picture"
+#~ msgstr "Нажмите для добавления картинки"
+
+#, python-format
+#~ msgid "Downloading %(1)s from %(2)s"
+#~ msgstr "Загружается %(1)s из %(2)s"
+
+#, python-format
+#~ msgid "Cannot download this %(1)s"
+#~ msgstr "Не могу загрузить %(1)s"
+
+#, python-format
+#, python-format, fuzzy
+#~ msgid "Save %(1)s to:"
+#~ msgstr "Сохранить %(1) в:"
+
+#, python-format
+#~ msgid "Your %(1)s is full"
+#~ msgstr "Диск %(1)s полон"
+
+#~ msgid "Journal"
+#~ msgstr "Журнал"
+
+#~ msgid "USB"
+#~ msgstr "USB"
+
+#~ msgid "SD Card"
+#~ msgstr "SD Карта"
+
+#~ msgid "Free space:"
+#~ msgstr "Свободное место:"
+
+#~ msgid "Bitrate"
+#~ msgstr "Битрейт"
+
+#~ msgid "Maximum Bitrate"
+#~ msgstr "Максимальный битрейт"
+
+#~ msgid "Minumum Bitrate"
+#~ msgstr "Минимальный битрейт"
+
+#~ msgid "Manage Bitrate"
+#~ msgstr "Изменить битрейт"
+
+#~ msgid "Border"
+#~ msgstr "Граница"
+
+#~ msgid "Center"
+#~ msgstr "Центр"
+
+#~ msgid "Frames"
+#~ msgstr "Рамки"
+
+#~ msgid "Automatic keyframe detection"
+#~ msgstr "Автоматическое определение ключевого фрейма"
+
+#~ msgid "Force keyframe"
+#~ msgstr "Использовать ключевой фрейм"
+
+#~ msgid "Keyframe frequency"
+#~ msgstr "Частота ключевого фрейма"
+
+#~ msgid "Keyframe minimum distance"
+#~ msgstr "Минимальная дистанция ключевого фрейма"
+
+#~ msgid "Keyframe threshold"
+#~ msgstr "Порог ключевого фрейма"
+
+#~ msgid "Noise Sensitivity"
+#~ msgstr "Шумовая Чувствительность"
+
+#~ msgid "Quick"
+#~ msgstr "Быстро"
+
+#~ msgid "Sharpness"
+#~ msgstr "Четкость"
+
+#~ msgid "Capacity"
+#~ msgstr "Емкость"
+
+#, python-format
+#, fuzzy
+#~ msgid "%(1)s minutes, %(2)s seconds remaining"
+#~ msgstr "Осталось %(1)s минут, %(1)s секунд"
+
+#, python-format
+#, fuzzy
+#~ msgid "%(1)s hours remaining"
+#~ msgstr "Осталось %(1)s секунд"
+
+#, python-format
+#, fuzzy
+#~ msgid "%(1)s minutes remaining"
+#~ msgstr "Осталось %(1)s секунд"
+
+#, python-format
+#~ msgid "%(1)s seconds remaining"
+#~ msgstr "Осталось %(1)s секунд"
+
+# TRANS: 7 photos
+#, python-format
+#, fuzzy
+#~ msgid "%(1)s hours"
+#~ msgstr "%(1)s фотографий"
+
+#, python-format
+#~ msgid "%(1)s photos"
+#~ msgstr "%(1)s фотографий"
+
+#~ msgid "Best quality"
+#~ msgstr "Отличное качество"
+
+#~ msgid "High quality"
+#~ msgstr "Высокое качество"
+
+#~ msgid "Low quality"
+#~ msgstr "Низкое качество"
+
+#~ msgid "Your disk is full"
+#~ msgstr "Диск полон"

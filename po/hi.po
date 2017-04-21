@@ -1,0 +1,319 @@
+# translation of record-activity.po to Hindi
+# G Karunakar <karunakar@indlinux.org>, 2007.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+msgid ""
+msgstr ""
+"Project-Id-Version: record-activity\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-03-17 00:31-0400\n"
+"PO-Revision-Date: 2011-11-30 05:01+0200\n"
+"Last-Translator: Chris <cjl@laptop.org>\n"
+"Language-Team: Hindi <indlinux-hindi@lists.sourceforge.net>\n"
+"Language: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.0.5\n"
+
+#: activity/activity.info:2
+msgid "Record"
+msgstr "रिकार्ड"
+
+#: button.py:26
+msgid "Remove"
+msgstr "हटाएँ"
+
+#: button.py:37
+msgid "Copy to clipboard"
+msgstr "क्लिपबोर्ड में नकल करें"
+
+#: constants.py:25 record.py:140
+msgid "Photo"
+msgstr "फोटो"
+
+#: constants.py:32 record.py:148
+msgid "Video"
+msgstr "वीडियो"
+
+#: constants.py:39 record.py:159
+msgid "Audio"
+msgstr "ऑडियो"
+
+#: glive.py:396 model.py:385
+#, python-format
+msgid "%(type)s by %(name)s"
+msgstr ""
+
+#: glive.py:556
+msgid "Saving..."
+msgstr ""
+
+#: mediaview.py:54
+msgid "Author:"
+msgstr ""
+
+#: mediaview.py:70
+msgid "Tags:"
+msgstr "चिप्पियाँ:"
+
+#: mediaview.py:118
+msgid "Date:"
+msgstr "तारीख़ः"
+
+#: model.py:183
+#, python-format
+msgid "%(mins)d:%(secs)02d remaining"
+msgstr ""
+
+#: record.py:209
+msgid "Title:"
+msgstr "शीर्षक:"
+
+#: record.py:535
+msgid "Download failed."
+msgstr ""
+
+#: record.py:537
+msgid "Downloading..."
+msgstr ""
+
+#: record.py:539
+msgid "Requesting..."
+msgstr ""
+
+#: record.py:836
+#, fuzzy
+msgid "Quality:"
+msgstr "गुणवत्ता:"
+
+#: record.py:837
+msgid "Low"
+msgstr "धीमा"
+
+#: record.py:841
+msgid "High"
+msgstr "तेज"
+
+#: record.py:849
+msgid "Preferences"
+msgstr "पसंद नापसंद"
+
+#: record.py:899
+msgid "Immediate"
+msgstr "तुरंत"
+
+#: record.py:916
+#, python-format
+#, fuzzy
+msgid "%s second"
+msgid_plural "%s seconds"
+msgstr[0] "%s सेकेंड"
+msgstr[1] ""
+
+#: record.py:941
+#, python-format
+#, fuzzy
+msgid "%s minute"
+msgid_plural "%s minutes"
+msgstr[0] "%s मिनट"
+msgstr[1] ""
+
+#~ msgid "Timer:"
+#~ msgstr "टाइमर:"
+
+#~ msgid "Duration:"
+#~ msgstr "अवधिः"
+
+#~ msgid "Time Lapse"
+#~ msgstr "बीता समय"
+
+#~ msgid "Animation"
+#~ msgstr "एनिमेशन"
+
+#~ msgid "Panorama"
+#~ msgstr "दीर्घ दृश्य"
+
+#~ msgid "Interview"
+#~ msgstr "मुलाकात"
+
+# TRANS: photo by photographer, e.g., "Photo by Mary"
+#, python-format
+#~ msgid "%(1)s by %(2)s"
+#~ msgstr "%(2)s द्वारा %(1)s"
+
+#~ msgid "Recorder:"
+#~ msgstr "रिकार्डर:"
+
+#~ msgid "Saving"
+#~ msgstr "सहेजें"
+
+#~ msgid "Finished recording"
+#~ msgstr "रिकार्डिंग खतम"
+
+#~ msgid "Stopped recording"
+#~ msgstr "रेकॉर्डिंग बन्द"
+
+#~ msgid "Play"
+#~ msgstr "बजाएँ"
+
+#~ msgid "Pause"
+#~ msgstr "ठहरें"
+
+#~ msgid "Add frame"
+#~ msgstr "फ्रेम जोडो"
+
+#~ msgid "Remove frame"
+#~ msgstr "फ्रेम हटाओ"
+
+#, python-format
+#~ msgid "%(1)s frames per second"
+#~ msgstr "%(1)s फ्रेम प्रति सेकंड"
+
+#~ msgid "Default"
+#~ msgstr "तयशुदा"
+
+#~ msgid "Best"
+#~ msgstr "सर्वोत्तम"
+
+#~ msgid "Large file"
+#~ msgstr "बडी फ़ाईल"
+
+#~ msgid "Small file"
+#~ msgstr "छोटी फ़ाईल"
+
+#~ msgid "Silent"
+#~ msgstr "मूक"
+
+#~ msgid "Rotate"
+#~ msgstr "घुमाएँ"
+
+#~ msgid "Width"
+#~ msgstr "चौड़ाई"
+
+#~ msgid "Height"
+#~ msgstr "ऊंचाई"
+
+#~ msgid "Click to take picture"
+#~ msgstr "फोटो खींचने के लिए क्लिक करें"
+
+#~ msgid "Click to add picture"
+#~ msgstr "फोटो जोड़ने के लिए क्लिक करें"
+
+#, python-format
+#~ msgid "Downloading %(1)s from %(2)s"
+#~ msgstr "%(1)s से %(2)s डाउनलोड किया जा रहा है"
+
+#, python-format
+#~ msgid "Cannot download this %(1)s"
+#~ msgstr "%(1)s को डाउनलोड नहीं किया जा सकता"
+
+#, python-format
+#, python-format, fuzzy
+#~ msgid "Save %(1)s to:"
+#~ msgstr "संग्रहितकरें"
+
+#, python-format
+#~ msgid "Your %(1)s is full"
+#~ msgstr "  आपकी %(1)भर गयी है"
+
+#~ msgid "Journal"
+#~ msgstr "चिठ्ठा"
+
+#~ msgid "USB"
+#~ msgstr "यू.एस.बी"
+
+#~ msgid "SD Card"
+#~ msgstr "  एस.डी. कार्ड "
+
+#~ msgid "Free space:"
+#~ msgstr "मुक्त जगहा"
+
+#~ msgid "Bitrate"
+#~ msgstr " बिट रेट"
+
+#~ msgid "Maximum Bitrate"
+#~ msgstr "अधिकतम बिट रेट"
+
+#~ msgid "Minumum Bitrate"
+#~ msgstr "न्यूनतम बिट रेट"
+
+#~ msgid "Manage Bitrate"
+#~ msgstr " बिट रेट काबू करे"
+
+#~ msgid "Border"
+#~ msgstr "किनारा"
+
+#~ msgid "Center"
+#~ msgstr "मध्य"
+
+#~ msgid "Frames"
+#~ msgstr "ढांचा"
+
+#~ msgid "Automatic keyframe detection"
+#~ msgstr "महत्वपूर्ण ढाँचे की स्वचलित खोज  "
+
+#~ msgid "Force keyframe"
+#~ msgstr "महत्वपूर्ण ढाँचे को  दबाना"
+
+#~ msgid "Keyframe frequency"
+#~ msgstr "महत्वपूर्ण ढाँचे की आवृत्ति"
+
+#~ msgid "Keyframe minimum distance"
+#~ msgstr " महत्वपूर्ण ढाँचे की न्यूनतम दूरी "
+
+#~ msgid "Keyframe threshold"
+#~ msgstr "महत्वपूर्ण ढाँचे की दहलीज़"
+
+#~ msgid "Noise Sensitivity"
+#~ msgstr "शोर की संवेदीती"
+
+#~ msgid "Quick"
+#~ msgstr "तुरंत"
+
+#~ msgid "Sharpness"
+#~ msgstr "स्पष्टता"
+
+#~ msgid "Capacity"
+#~ msgstr "धारण शक्ति"
+
+#, python-format
+#~ msgid "%(1)s hours, %(2)s minutes, %(1)s seconds remaining"
+#~ msgstr "%(1)s घंटे,%(2)s मिनट,%(1)s सेकण्ड बाकी"
+
+#, python-format
+#, fuzzy
+#~ msgid "%(1)s minutes, %(2)s seconds remaining"
+#~ msgstr "%(1)s मिनट, %(1)s सेकण्ड बाकी"
+
+#, python-format
+#, fuzzy
+#~ msgid "%(1)s hours remaining"
+#~ msgstr "%(1)s घंटे बाकी"
+
+#, python-format
+#, fuzzy
+#~ msgid "%(1)s minutes remaining"
+#~ msgstr "%(1)s मिनट"
+
+#, python-format
+#~ msgid "%(1)s seconds remaining"
+#~ msgstr "%(1)s सेकण्ड बाकी"
+
+#, python-format
+#~ msgid "%(1)s hours"
+#~ msgstr "%(1)s घंटे"
+
+#, python-format
+#~ msgid "%(1)s photos"
+#~ msgstr "%(1)s तस्वीरे"
+
+#~ msgid "Best quality"
+#~ msgstr "बढिया गुणवत्ता"
+
+#~ msgid "High quality"
+#~ msgstr "उच्च गुणवत्ता"
+
+#~ msgid "Low quality"
+#~ msgstr "कम गुणवत्ता"

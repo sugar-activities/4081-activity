@@ -1,0 +1,320 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-03-17 00:31-0400\n"
+"PO-Revision-Date: 2012-09-18 01:14+0200\n"
+"Last-Translator: Cris Anderson <anderson861@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: mn\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.0.5\n"
+
+#: activity/activity.info:2
+msgid "Record"
+msgstr "Бичлэг хийх"
+
+#: button.py:26
+msgid "Remove"
+msgstr "Устгах"
+
+#: button.py:37
+msgid "Copy to clipboard"
+msgstr "Самбарт хуулах"
+
+#: constants.py:25 record.py:140
+msgid "Photo"
+msgstr "Зураг"
+
+#: constants.py:32 record.py:148
+msgid "Video"
+msgstr "Видео"
+
+#: constants.py:39 record.py:159
+msgid "Audio"
+msgstr "Дуу"
+
+#: glive.py:396 model.py:385
+#, python-format
+msgid "%(type)s by %(name)s"
+msgstr ""
+
+#: glive.py:556
+msgid "Saving..."
+msgstr "Хадгалж байна..."
+
+#: mediaview.py:54
+msgid "Author:"
+msgstr "Зохиогч:"
+
+#: mediaview.py:70
+msgid "Tags:"
+msgstr "Шошго:"
+
+#: mediaview.py:118
+msgid "Date:"
+msgstr "Огноо:"
+
+#: model.py:183
+#, python-format
+msgid "%(mins)d:%(secs)02d remaining"
+msgstr ""
+
+#: record.py:209
+msgid "Title:"
+msgstr "Гарчиг:"
+
+#: record.py:535
+msgid "Download failed."
+msgstr ""
+
+#: record.py:537
+msgid "Downloading..."
+msgstr "Татаж байнаа..."
+
+#: record.py:539
+msgid "Requesting..."
+msgstr ""
+
+#: record.py:836
+msgid "Quality:"
+msgstr "Чанар:"
+
+#: record.py:837
+msgid "Low"
+msgstr "Нам"
+
+#: record.py:841
+msgid "High"
+msgstr "Өндөр"
+
+#: record.py:849
+msgid "Preferences"
+msgstr "Тохиргоо"
+
+#: record.py:899
+msgid "Immediate"
+msgstr "Яаралтай"
+
+#: record.py:916
+#, python-format
+msgid "%s second"
+msgid_plural "%s seconds"
+msgstr[0] "%s секунд"
+msgstr[1] "%s секунд"
+
+#: record.py:941
+#, python-format
+msgid "%s minute"
+msgid_plural "%s minutes"
+msgstr[0] "%s минут"
+msgstr[1] "%s минут"
+
+#~ msgid "Time Lapse"
+#~ msgstr "Хугацааны хурдасгуур"
+
+#~ msgid "Animation"
+#~ msgstr "Хөдөлгөөнт зураг"
+
+#~ msgid "Panorama"
+#~ msgstr "Панорам"
+
+#~ msgid "Interview"
+#~ msgstr "Ярилцлага"
+
+# TRANS: photo by photographer, e.g., "Photo by Mary"
+#, python-format
+#~ msgid "%(1)s by %(2)s"
+#~ msgstr "%(2)s-гын %(1)s"
+
+#~ msgid "Recorder:"
+#~ msgstr "Дуу хураагуур:"
+
+#~ msgid "Saving"
+#~ msgstr "Хадгалж байна"
+
+#~ msgid "Finished recording"
+#~ msgstr "Бичлэг хийж дууслаа"
+
+#~ msgid "Stopped recording"
+#~ msgstr "Бичлэгийг зогсоолоо"
+
+#~ msgid "Timer:"
+#~ msgstr "Тоолуур:"
+
+#~ msgid "Duration:"
+#~ msgstr "Үргэлжлэх хугацаа:"
+
+#~ msgid "Play"
+#~ msgstr "Үзэх"
+
+#~ msgid "Pause"
+#~ msgstr "Завсарлах"
+
+#~ msgid "Add frame"
+#~ msgstr "Хүрээ нэмэх"
+
+#~ msgid "Remove frame"
+#~ msgstr "Хүрээг арилгах"
+
+#, python-format
+#~ msgid "%(1)s frames per second"
+#~ msgstr "Секунд тутамд %(1)s кадр"
+
+#~ msgid "Default"
+#~ msgstr "Ердийн"
+
+#~ msgid "Best"
+#~ msgstr "Хамгийн сайн"
+
+#~ msgid "Large file"
+#~ msgstr "Том файл"
+
+#~ msgid "Small file"
+#~ msgstr "Жижиг файл"
+
+#~ msgid "Silent"
+#~ msgstr "Дуугүй"
+
+#~ msgid "Rotate"
+#~ msgstr "Эргүүлэх"
+
+#~ msgid "Width"
+#~ msgstr "Өргөн"
+
+#~ msgid "Height"
+#~ msgstr "Өндөр"
+
+#~ msgid "Click to take picture"
+#~ msgstr "Зураг авахдаа энд дарна уу"
+
+#~ msgid "Click to add picture"
+#~ msgstr "Зураг нэмэхдээ энд дарна уу"
+
+# TRANS: Downloading Photo from Mary
+#, python-format
+#~ msgid "Downloading %(1)s from %(2)s"
+#~ msgstr "%(2)s-ээс %(1)s-ийг татаж байна"
+
+# TRANS: Cannot download this Photo
+#, python-format
+#~ msgid "Cannot download this %(1)s"
+#~ msgstr "Энэ %(1)s-г татаж чадахгүй байна"
+
+# TRANS: Save Photo to:
+#, python-format
+#~ msgid "Save %(1)s to:"
+#~ msgstr "%(1)s-ийг хадгалах хавтас:"
+
+#, python-format
+#~ msgid "Your %(1)s is full"
+#~ msgstr "Таны %(1)s дүүрэн байна"
+
+#~ msgid "Journal"
+#~ msgstr "Бүртгэл"
+
+#~ msgid "USB"
+#~ msgstr "USB"
+
+#~ msgid "SD Card"
+#~ msgstr "SD карт"
+
+#~ msgid "Free space:"
+#~ msgstr "Сул зай:"
+
+#~ msgid "Bitrate"
+#~ msgstr "Бит-н хурд"
+
+#~ msgid "Maximum Bitrate"
+#~ msgstr "Хамгийн их бит-н хурд"
+
+#~ msgid "Minumum Bitrate"
+#~ msgstr "Хамгийн бага бит-н хурд"
+
+#~ msgid "Manage Bitrate"
+#~ msgstr "Бит-н хурдыг тохируулах"
+
+#~ msgid "Border"
+#~ msgstr "Хүрээ"
+
+#~ msgid "Center"
+#~ msgstr "Төв"
+
+#~ msgid "Frames"
+#~ msgstr "Кадрууд"
+
+#~ msgid "Automatic keyframe detection"
+#~ msgstr "Үндсэн кадрыг автоматаар олох"
+
+#~ msgid "Force keyframe"
+#~ msgstr "Үндсэн кадрыг оноох"
+
+#~ msgid "Keyframe frequency"
+#~ msgstr "Үндсэн кадрын давтамж"
+
+#~ msgid "Keyframe minimum distance"
+#~ msgstr "Үндсэн кадрын хоорондын хамгийн бага зай"
+
+#~ msgid "Keyframe threshold"
+#~ msgstr "Үндсэн кадрын хязгаар"
+
+#~ msgid "Noise Sensitivity"
+#~ msgstr "Шуугиан мэдрэгч"
+
+#~ msgid "Quick"
+#~ msgstr "Хурдан"
+
+#~ msgid "Sharpness"
+#~ msgstr "Тодрол"
+
+#~ msgid "Capacity"
+#~ msgstr "Багтаамж"
+
+#, python-format
+#~ msgid "%(1)s hours, %(2)s minutes, %(3)s seconds remaining"
+#~ msgstr "%(1)s цаг, %(2)s минут, %(3)s секунд үлдлээ"
+
+#, python-format
+#~ msgid "%(1)s minutes, %(2)s seconds remaining"
+#~ msgstr "%(1)s минут, %(2)s секунд үлдлээ"
+
+#, python-format
+#~ msgid "%(1)s hours remaining"
+#~ msgstr "%(1)s цаг үлдлээ"
+
+#, python-format
+#~ msgid "%(1)s minutes remaining"
+#~ msgstr "%(1)s минут үлдлээ"
+
+#, python-format
+#~ msgid "%(1)s seconds remaining"
+#~ msgstr "%(1)s секунд үлдлээ"
+
+# TRANS: 7 photos
+#, python-format
+#~ msgid "%(1)s hours"
+#~ msgstr "%(1)s цаг"
+
+# TRANS: 7 photos
+#, python-format
+#~ msgid "%(1)s photos"
+#~ msgstr "%(1)s зураг"
+
+#~ msgid "Best quality"
+#~ msgstr "Хамгийн сайн чанар"
+
+#~ msgid "High quality"
+#~ msgstr "Өндөр чанар"
+
+#~ msgid "Low quality"
+#~ msgstr "Бага чанар"
+
+#~ msgid "Your disk is full"
+#~ msgstr "Таны хадгалах ой дүүрсэн байна"

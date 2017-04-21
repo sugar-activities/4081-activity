@@ -1,0 +1,196 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-03-17 00:31-0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.6.0\n"
+
+#: activity/activity.info:2
+msgid "Record"
+msgstr "Taka upp"
+
+#: button.py:26
+msgid "Remove"
+msgstr "Fjarlægja"
+
+#: button.py:37
+msgid "Copy to clipboard"
+msgstr "Afrita á spjaldið"
+
+#: constants.py:25 record.py:140
+msgid "Photo"
+msgstr "Mynd"
+
+#: constants.py:32 record.py:148
+msgid "Video"
+msgstr ""
+
+#: constants.py:39 record.py:159
+msgid "Audio"
+msgstr "Hljóð"
+
+#: glive.py:396 model.py:385
+#, python-format
+msgid "%(type)s by %(name)s"
+msgstr ""
+
+#: glive.py:556
+msgid "Saving..."
+msgstr ""
+
+#: mediaview.py:54
+msgid "Author:"
+msgstr ""
+
+#: mediaview.py:70
+msgid "Tags:"
+msgstr "Merki:"
+
+#: mediaview.py:118
+msgid "Date:"
+msgstr "Dagsettning:"
+
+#: model.py:183
+#, python-format
+msgid "%(mins)d:%(secs)02d remaining"
+msgstr ""
+
+#: record.py:209
+msgid "Title:"
+msgstr "Titill:"
+
+#: record.py:535
+msgid "Download failed."
+msgstr ""
+
+#: record.py:537
+msgid "Downloading..."
+msgstr ""
+
+#: record.py:539
+msgid "Requesting..."
+msgstr ""
+
+#: record.py:836
+#, fuzzy
+msgid "Quality:"
+msgstr "Gæði:"
+
+#: record.py:837
+msgid "Low"
+msgstr ""
+
+#: record.py:841
+msgid "High"
+msgstr ""
+
+#: record.py:849
+msgid "Preferences"
+msgstr ""
+
+#: record.py:899
+msgid "Immediate"
+msgstr ""
+
+#: record.py:916
+#, python-format
+#, fuzzy
+msgid "%s second"
+msgid_plural "%s seconds"
+msgstr[0] "%(1) sekúndur"
+
+#: record.py:941
+#, python-format
+#, fuzzy
+msgid "%s minute"
+msgid_plural "%s minutes"
+msgstr[0] "%(1) mínúndur"
+
+# TRANS: photo by photographer, e.g., "Photo by Mary"
+#, python-format
+#~ msgid "%(1)s by %(2)s"
+#~ msgstr "%(1) eftir %(2)"
+
+#~ msgid "Recorder:"
+#~ msgstr "Taka upp:"
+
+#~ msgid "Saving"
+#~ msgstr "Vista"
+
+#~ msgid "Finished recording"
+#~ msgstr "Endaði upptöku"
+
+#~ msgid "Stopped recording"
+#~ msgstr "Enda upptöku"
+
+#~ msgid "Play"
+#~ msgstr "Spila"
+
+#~ msgid "Pause"
+#~ msgstr "Bið"
+
+#~ msgid "Add frame"
+#~ msgstr "Bæta við römmum"
+
+#~ msgid "Remove frame"
+#~ msgstr "Fjarlægja ramma"
+
+#, python-format
+#~ msgid "%(1)s frames per second"
+#~ msgstr "%(1) rammar á sekúndu"
+
+#~ msgid "Large file"
+#~ msgstr "Stór skrá"
+
+#~ msgid "Small file"
+#~ msgstr "Lítil skrá"
+
+#~ msgid "Silent"
+#~ msgstr "Hljótt"
+
+#~ msgid "Rotate"
+#~ msgstr "Snúa"
+
+#~ msgid "Click to take picture"
+#~ msgstr "Smelltu til að taka mynd"
+
+#~ msgid "Click to add picture"
+#~ msgstr "Smelltu til að bæta við mynd"
+
+#, python-format
+#~ msgid "Downloading %(1)s from %(2)s"
+#~ msgstr "Sæki %(1) frá %(2)"
+
+#, python-format
+#~ msgid "Cannot download this %(1)s"
+#~ msgstr "Gat ekki sótt þetta %(1)"
+
+#, python-format
+#, fuzzy
+#~ msgid "%(1)s minutes, %(2)s seconds remaining"
+#~ msgstr "%(1) mínúndur, %(1) sekúndur eftir"
+
+#, python-format
+#, fuzzy
+#~ msgid "%(1)s hours remaining"
+#~ msgstr "%(1) sekúndur eftir"
+
+#, python-format
+#, fuzzy
+#~ msgid "%(1)s minutes remaining"
+#~ msgstr "%(1) sekúndur eftir"
+
+#, python-format
+#~ msgid "%(1)s seconds remaining"
+#~ msgstr "%(1) sekúndur eftir"

@@ -1,0 +1,150 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-03-17 00:31-0400\n"
+"PO-Revision-Date: 2012-07-02 12:07+0200\n"
+"Last-Translator: jui <appukonrad@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Pootle 2.0.5\n"
+
+#: activity/activity.info:2
+msgid "Record"
+msgstr "Nahrát"
+
+#: button.py:26
+msgid "Remove"
+msgstr "Odstranit"
+
+#: button.py:37
+msgid "Copy to clipboard"
+msgstr "Zkopírovat do schránky"
+
+#: constants.py:25 record.py:140
+msgid "Photo"
+msgstr "Fotografie"
+
+#: constants.py:32 record.py:148
+msgid "Video"
+msgstr "Video"
+
+#: constants.py:39 record.py:159
+msgid "Audio"
+msgstr "Zvuk"
+
+#: glive.py:396 model.py:385
+#, python-format
+msgid "%(type)s by %(name)s"
+msgstr "%(type)s z %(name)s"
+
+#: glive.py:556
+msgid "Saving..."
+msgstr "Ukládám..."
+
+#: mediaview.py:54
+msgid "Author:"
+msgstr "Autor:"
+
+#: mediaview.py:70
+msgid "Tags:"
+msgstr "Štítky:"
+
+#: mediaview.py:118
+msgid "Date:"
+msgstr "Datum:"
+
+#: model.py:183
+#, python-format
+msgid "%(mins)d:%(secs)02d remaining"
+msgstr "%(mins)d:%(secs)02d zůstává"
+
+#: record.py:209
+msgid "Title:"
+msgstr "Název:"
+
+#: record.py:535
+msgid "Download failed."
+msgstr "Stahování selhalo."
+
+#: record.py:537
+msgid "Downloading..."
+msgstr "Stahování..."
+
+#: record.py:539
+msgid "Requesting..."
+msgstr "Vyžádání..."
+
+#: record.py:836
+msgid "Quality:"
+msgstr "Kvalita:"
+
+#: record.py:837
+msgid "Low"
+msgstr "Nízká"
+
+#: record.py:841
+msgid "High"
+msgstr "Vysoká"
+
+#: record.py:849
+msgid "Preferences"
+msgstr "Predvolby"
+
+#: record.py:899
+msgid "Immediate"
+msgstr "Okamžitě"
+
+#: record.py:916
+#, python-format
+msgid "%s second"
+msgid_plural "%s seconds"
+msgstr[0] "%s sekunda"
+msgstr[1] "%s sekundy"
+msgstr[2] "%s sekund"
+
+#: record.py:941
+#, python-format
+msgid "%s minute"
+msgid_plural "%s minutes"
+msgstr[0] "%s minuta"
+msgstr[1] "%s minuty"
+msgstr[2] "%s minut"
+
+#~ msgid "Duration:"
+#~ msgstr "Trvání:"
+
+#~ msgid "Remaining:"
+#~ msgstr "Zbývající"
+
+#~ msgid "Play"
+#~ msgstr "Přehrát"
+
+#~ msgid "Pause"
+#~ msgstr "Pauza"
+
+#~ msgid "Default"
+#~ msgstr "Implicitní"
+
+#~ msgid "Best"
+#~ msgstr "Nejlepší"
+
+#~ msgid "Rotate"
+#~ msgstr "Otočit"
+
+#~ msgid "Width"
+#~ msgstr "Šířka"
+
+#~ msgid "Height"
+#~ msgstr "Výška"
+
+#~ msgid "Journal"
+#~ msgstr "Deník"

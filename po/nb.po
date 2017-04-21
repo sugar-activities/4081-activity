@@ -1,0 +1,172 @@
+# translation of record-activity.po to Norsk bokmål
+# Kent Dahl <kentda@pvv.org>, 2008.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+msgid ""
+msgstr ""
+"Project-Id-Version: record-activity\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-03-17 00:31-0400\n"
+"PO-Revision-Date: 2008-07-26 13:53+0200\n"
+"Last-Translator: Kent Dahl <kentda@pvv.org>\n"
+"Language-Team: Norsk bokmål <i18n-no@lister.ping.uio.no>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Translate Toolkit 1.6.0\n"
+
+#: activity/activity.info:2
+msgid "Record"
+msgstr "Opptaker"
+
+#: button.py:26
+msgid "Remove"
+msgstr "Fjern"
+
+#: button.py:37
+msgid "Copy to clipboard"
+msgstr "Kopier til utklippstavle"
+
+#: constants.py:25 record.py:140
+msgid "Photo"
+msgstr "Fotografi"
+
+#: constants.py:32 record.py:148
+msgid "Video"
+msgstr "Film"
+
+#: constants.py:39 record.py:159
+msgid "Audio"
+msgstr "Lyd"
+
+#: glive.py:396 model.py:385
+#, python-format
+msgid "%(type)s by %(name)s"
+msgstr ""
+
+#: glive.py:556
+msgid "Saving..."
+msgstr ""
+
+#: mediaview.py:54
+msgid "Author:"
+msgstr ""
+
+#: mediaview.py:70
+msgid "Tags:"
+msgstr "Merkelapper:"
+
+#: mediaview.py:118
+msgid "Date:"
+msgstr "Dato:"
+
+#: model.py:183
+#, python-format
+msgid "%(mins)d:%(secs)02d remaining"
+msgstr ""
+
+#: record.py:209
+msgid "Title:"
+msgstr "Tittel:"
+
+#: record.py:535
+msgid "Download failed."
+msgstr ""
+
+#: record.py:537
+msgid "Downloading..."
+msgstr ""
+
+#: record.py:539
+msgid "Requesting..."
+msgstr ""
+
+#: record.py:836
+#, fuzzy
+msgid "Quality:"
+msgstr "Kvalitet"
+
+#: record.py:837
+msgid "Low"
+msgstr "Lav"
+
+#: record.py:841
+msgid "High"
+msgstr "Høy"
+
+#: record.py:849
+msgid "Preferences"
+msgstr ""
+
+#: record.py:899
+msgid "Immediate"
+msgstr ""
+
+#: record.py:916
+#, python-format
+msgid "%s second"
+msgid_plural "%s seconds"
+msgstr[0] ""
+msgstr[1] ""
+
+#: record.py:941
+#, python-format
+msgid "%s minute"
+msgid_plural "%s minutes"
+msgstr[0] ""
+msgstr[1] ""
+
+#~ msgid "Duration:"
+#~ msgstr "Varighet:"
+
+#~ msgid "Animation"
+#~ msgstr "Animasjon"
+
+#~ msgid "Interview"
+#~ msgstr "Intervju"
+
+#~ msgid "Recorder:"
+#~ msgstr "Opptaker:"
+
+#~ msgid "Saving"
+#~ msgstr "Lagrer"
+
+#~ msgid "Finished recording"
+#~ msgstr "Opptak ferdi"
+
+#~ msgid "Stopped recording"
+#~ msgstr "Stoppet opptak"
+
+#~ msgid "Play"
+#~ msgstr "Spill av"
+
+#~ msgid "Pause"
+#~ msgstr "Pause"
+
+#~ msgid "Best"
+#~ msgstr "Best"
+
+#~ msgid "Large file"
+#~ msgstr "Stor fil"
+
+#~ msgid "Small file"
+#~ msgstr "Liten fil"
+
+#~ msgid "Silent"
+#~ msgstr "Stille"
+
+#~ msgid "Rotate"
+#~ msgstr "Roter"
+
+#~ msgid "Width"
+#~ msgstr "Bredde"
+
+#~ msgid "Height"
+#~ msgstr "Høyde"
+
+#~ msgid "Click to take picture"
+#~ msgstr "Klikk for å ta bilde"
+
+#~ msgid "Click to add picture"
+#~ msgstr "Klikke for å legge til bilde"

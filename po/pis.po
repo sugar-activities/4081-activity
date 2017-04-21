@@ -1,0 +1,182 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-03-17 00:31-0400\n"
+"PO-Revision-Date: 2008-06-17 19:43-0400\n"
+"Last-Translator: Phillip Pukefenua <phillip.pukefenua@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.6.0\n"
+
+#: activity/activity.info:2
+msgid "Record"
+msgstr "rekot"
+
+#: button.py:26
+msgid "Remove"
+msgstr "Aotim"
+
+#: button.py:37
+msgid "Copy to clipboard"
+msgstr "Kopim go lo klipbot"
+
+#: constants.py:25 record.py:140
+msgid "Photo"
+msgstr "foto"
+
+#: constants.py:32 record.py:148
+msgid "Video"
+msgstr "Vidio"
+
+#: constants.py:39 record.py:159
+msgid "Audio"
+msgstr "Saon"
+
+#: glive.py:396 model.py:385
+#, python-format
+msgid "%(type)s by %(name)s"
+msgstr ""
+
+#: glive.py:556
+msgid "Saving..."
+msgstr ""
+
+#: mediaview.py:54
+msgid "Author:"
+msgstr ""
+
+#: mediaview.py:70
+msgid "Tags:"
+msgstr "Tacks"
+
+#: mediaview.py:118
+msgid "Date:"
+msgstr "Deit"
+
+#: model.py:183
+#, python-format
+msgid "%(mins)d:%(secs)02d remaining"
+msgstr ""
+
+#: record.py:209
+msgid "Title:"
+msgstr "Taetol"
+
+#: record.py:535
+msgid "Download failed."
+msgstr ""
+
+#: record.py:537
+msgid "Downloading..."
+msgstr ""
+
+#: record.py:539
+msgid "Requesting..."
+msgstr ""
+
+#: record.py:836
+msgid "Quality:"
+msgstr ""
+
+#: record.py:837
+msgid "Low"
+msgstr ""
+
+#: record.py:841
+msgid "High"
+msgstr ""
+
+#: record.py:849
+msgid "Preferences"
+msgstr ""
+
+#: record.py:899
+msgid "Immediate"
+msgstr "Tis taem"
+
+#: record.py:916
+#, python-format
+#, fuzzy
+msgid "%s second"
+msgid_plural "%s seconds"
+msgstr[0] "1 sekon"
+
+#: record.py:941
+#, python-format
+#, fuzzy
+msgid "%s minute"
+msgid_plural "%s minutes"
+msgstr[0] "1 minit"
+
+#~ msgid "Timer:"
+#~ msgstr "Taema"
+
+#~ msgid "Duration:"
+#~ msgstr "Hao long"
+
+#~ msgid "Time Lapse"
+#~ msgstr "Taem hem finis"
+
+#~ msgid "Animation"
+#~ msgstr "Saon wetem foto"
+
+#~ msgid "Panorama"
+#~ msgstr "Sem samting"
+
+#~ msgid "Interview"
+#~ msgstr "Intaviu"
+
+#~ msgid "Recorder:"
+#~ msgstr "Rekota"
+
+#~ msgid "Saving"
+#~ msgstr "Sevim"
+
+#~ msgid "Finished recording"
+#~ msgstr "Finis rekot"
+
+#~ msgid "Stopped recording"
+#~ msgstr "Stop rekot"
+
+#~ msgid "Play"
+#~ msgstr "Plei"
+
+#~ msgid "Pause"
+#~ msgstr "Poos"
+
+#, python-format
+#~ msgid "%(1)s hours, %(2)s minutes, %(1)s seconds remaining"
+#~ msgstr "1 aoa, 2 minits, 1 sekon left"
+
+#, python-format
+#~ msgid "%(1)s minutes, %(2)s seconds remaining"
+#~ msgstr "1 minit, 2 sekon left"
+
+#, python-format
+#~ msgid "%(1)s hours remaining"
+#~ msgstr "1 aoa left"
+
+#, python-format
+#, fuzzy
+#~ msgid "%(1)s minutes remaining"
+#~ msgstr "1 aoa left"
+
+#, python-format
+#~ msgid "%(1)s seconds remaining"
+#~ msgstr "1 sekon left"
+
+#, python-format
+#~ msgid "%(1)s hours"
+#~ msgstr "1 aoa"
+
+#, python-format
+#, fuzzy
+#~ msgid "%(1)s photos"
+#~ msgstr "1 aoa"
